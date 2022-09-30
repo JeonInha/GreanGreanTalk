@@ -33,8 +33,13 @@
 ***
 
 ### 3. 프로그램 미리보기 
+- 로그인 화면
 ![1](https://user-images.githubusercontent.com/104603885/193184158-5282ad39-88de-4ff6-b5c5-d9c8d83003d9.PNG)
+####
+- 회원가입 화면
 ![2](https://user-images.githubusercontent.com/104603885/193184177-c48229b1-861e-40ea-a047-b62a3b57811e.PNG)
+####
+- 메인페이지 (타임라인)
 ![3](https://user-images.githubusercontent.com/104603885/193184203-4a9f42d1-7c0d-467c-b820-5bf6ebcc861b.PNG)
 
 ***
